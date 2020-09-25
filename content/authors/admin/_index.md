@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Politics & International Relations
+  - course: PhD in Politics & Int'l Relations
     institution: University of Southern California
     year: 2009
-  - course: MA in International Political Economy & Development
+  - course: MA in Int'l Political Economy & Development
     institution: Fordham University
     year: 2003
   - course: BA in Economics & Political Science
