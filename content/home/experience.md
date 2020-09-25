@@ -18,27 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Chair, Department of Political Science"
+  company = "Sam Houston State University"
+  company_url = "https://www.shsu.edu"
+  location = ""
+  date_start = "2020-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Associate Professor, Political Science"
+  company = "Sam Houston State University"
+  company_url = "https://www.shsu.edu"
+  location = ""
+  date_start = "2015-09-01"
+  date_end = ""
+  description = ""
+  
+[[experience]]
+  title = "Director, Center for the Study of Disasters and Emergency Management"
+  company = "Sam Houston State University"
+  company_url = "https://www.shsu.edu"
+  location = ""
+  date_start = "2014-11-01"
+  date_end = ""
+  description = ""
 
+[[experience]]
+  title = "Director, MA Program in Political Science"
+  company = "Sam Houston State University"
+  company_url = "https://www.shsu.edu"
+  location = ""
+  date_start = "2017-05-01"
+  date_end = "2020-07-31"
+  description = ""
+
+[[experience]]
+  title = "Assistant Professor, Political Science"
+  company = "Sam Houston State University"
+  company_url = "https://www.shsu.edu"
+  location = ""
+  date_start = "2010-08-15"
+  date_end = "2015-08-30"
+  description = ""
 +++
