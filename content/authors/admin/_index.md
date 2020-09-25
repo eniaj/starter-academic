@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Chair & Associate Professor
+role: Chair, Political Science
 
 # Organizations/Affiliations
 organizations:
-- name: Political Science, Sam Houston State University
+- name: Sam Houston State University
   url: "https://www.shsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
