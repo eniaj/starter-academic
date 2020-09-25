@@ -5,7 +5,7 @@ title: Is there an International Disaster Risk Reduction Regime? Does it Matter?
 date: 2020-05-05
 
 # Publication type
-publication_types: 2
+publication_types: "2"
 
 # Publication
 publication: Progress in Disaster Science
