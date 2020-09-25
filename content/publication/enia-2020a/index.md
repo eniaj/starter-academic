@@ -1,3 +1,4 @@
+---
 # Page title
 title: Is there an International Disaster Risk Reduction Regime? Does it Matter?
 
@@ -12,3 +13,4 @@ publication: Progress in Disaster Science
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
+---
