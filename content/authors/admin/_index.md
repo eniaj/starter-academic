@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Chair and Associate Professor of Political Science
+role: Chair & Associate Professor of Political Science
 
 # Organizations/Affiliations
 organizations:
@@ -23,17 +23,17 @@ organizations:
 interests:
 - Politics of Disasters
 - Politics of Nuclear Nonproliferation
-- Political Economy of Cooperation and Conflict
+- Political Economy of Cooperation & Conflict
 
 education:
   courses:
-  - course: PhD in Politics and International Relations
+  - course: PhD in Politics & International Relations
     institution: University of Southern California
     year: 2009
-  - course: MA in International Political Economy and Development
+  - course: MA in International Political Economy & Development
     institution: Fordham University
     year: 2003
-  - course: BA in Economics and Political Science
+  - course: BA in Economics & Political Science
     institution: University of Dayton
     year: 1999
 
@@ -67,4 +67,4 @@ email: ""
 # - Visitors
 ---
 
-Jason Enia is chair and associate professor in the Department of Political Science at Sam Houston State University. He is also the founding director of SHSU’s Center for the Study of Disasters & Emergency Management (CDEM). Enia’s research explores the politics of preventing and mitigating low probability, high impact events, specifically nuclear weapons proliferation and large natural disasters. Many assume the potentially huge and negative consequences of these events make the politics different – or should make them different they’re not already. Enia’s research dispels these myths using the theories and tools of political economy, focusing on the way institutions structure the political incentives on these issues. Contrary to what many assume, the politics that underpin these extraordinary issues are often very ordinary.
+Jason Enia is Chair and Associate Professor in the Political Science Department at Sam Houston State University. He is also the founding director of SHSU’s Center for the Study of Disasters & Emergency Management (CDEM). Enia’s research explores the politics of preventing and mitigating low probability, high impact events, specifically nuclear weapons proliferation and large natural disasters. Many assume the potentially huge and negative consequences of these events make the politics different – or should make them different they’re not already. Enia’s research dispels these myths using the theories and tools of political economy, focusing on the way institutions structure the political incentives on these issues.
