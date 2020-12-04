@@ -187,7 +187,10 @@
   translation: Patent
   
 - id: pub_case
-  translation: Case Study
+  translation: Case study
+  
+- id: pub_media
+  translation: Media (not peer reviewed)
 
 # Project details
 
