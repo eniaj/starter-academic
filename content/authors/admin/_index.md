@@ -51,9 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IpgtHIgAAAAJ&hl=en
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/jenia
+  link: https://www.linkedin.com/in/jasonenia/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -66,5 +66,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-
-Jason Enia is Chair and Associate Professor in the Political Science Department at Sam Houston State University. He is also the founding director of SHSU’s Center for the Study of Disasters & Emergency Management (CDEM). Enia’s research explores the politics of low probability, high impact events, specifically nuclear weapons proliferation and large natural disasters. Many assume the potentially huge and negative consequences of these events make the politics different – or should make them different if they’re not already. Enia’s research dispels these myths using the theories and tools of political economy, focusing on the ways institutions structure the political incentives around these issues.
+Jason Enia is Chair and Associate Professor in the Political Science Department at Sam Houston State University. He is also the founding director of SHSU’s Center for the Study of Disasters & Emergency Management (CDEM). Enia’s research explores the politics of low probability, high impact events, specifically nuclear weapons proliferation and large disasters. Many assume the potentially huge and negative consequences of these events make the politics different – or should make them different if they’re not already. Enia’s research dispels these myths using the theories and tools of political economy, focusing on the ways institutions structure the political incentives around these issues.
