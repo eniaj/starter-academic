@@ -86,23 +86,23 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
   [[related.indices]]
     name = "title"
-    weight = 60.0
+    weight = 0.0
 
   [[related.indices]]
     name = "summary"
-    weight = 95.0
+    weight = 0.0
 
   [[related.indices]]
     name = "tags"
-    weight = 50.0
+    weight = 0.0
 
   [[related.indices]]
     name = "categories"
-    weight = 70.0
+    weight = 0.0
 
   [[related.indices]]
     name = "authors"
-    weight = 20.0
+    weight = 0.0
 
 # Install Wowchemy
 [module]
