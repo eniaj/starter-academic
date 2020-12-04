@@ -80,7 +80,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Related content.
 [related]
-  threshold = 80.0
+  threshold = 70.0
   includeNewer = false
   toLower = true
 
