@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2018-09-26
 
 authors: [J. Enia]
-tags: []
+tags: [Disaster Politics]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -34,7 +34,7 @@ featured: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Right"
   preview_only: false
 
 # Custom links (optional).
