@@ -66,3 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: [nuclear-politics]
 ---
+{{< youtube LIPU-gBs8sc >}}
