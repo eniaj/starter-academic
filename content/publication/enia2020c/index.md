@@ -25,7 +25,7 @@ abstract: "Contrary to popular wisdom, people tend not to panic in emergencies. 
 summary: 
 
 tags: []
-categories: []
+categories: [Disaster Politics]
 featured: false
 
 # Custom links (optional).
