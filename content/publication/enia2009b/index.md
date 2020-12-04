@@ -23,7 +23,7 @@ abstract: "How do we assess the health of international regimes? Many analysts h
 "
 
 # Summary. An optional shortened abstract.
-summary: "How do we assess the health of international regimes? This paper returns to a theoretical framework that differentiates regimes, across both issue areas and time, to provide a more specified evaluation of regime health."
+summary: "How do we assess the health of the nuclear nonproliferation regime? This paper returns to a theoretical framework that differentiates regimes, across both issue areas and time, to provide a more specified evaluation of regime health."
 
 tags: []
 categories: []
