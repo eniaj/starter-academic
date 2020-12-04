@@ -4,7 +4,7 @@
 title: "Greasing the Wheels of the Nuclear Nonproliferation Regime: The Political Economy of Nuclear Suppliers Group Rules"
 authors: [J. Enia]
 date: 2020-11-20
-doi: 
+doi: https://doi.org/10.1080/25751654.2020.1856553
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-18T18:05:50-05:00
