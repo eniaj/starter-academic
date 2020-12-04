@@ -160,7 +160,7 @@
   translation: Location
 
 - id: pub_uncat
-  translation: Uncategorizing
+  translation: Uncategorized
 
 - id: pub_conf
   translation: Conference paper
@@ -185,6 +185,9 @@
 
 - id: pub_patent
   translation: Patent
+  
+- id: pub_case
+  translation: Case Study
 
 # Project details
 
