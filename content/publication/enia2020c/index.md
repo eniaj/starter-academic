@@ -24,7 +24,7 @@ abstract: " Contrary to popular wisdom, people tend not to panic in emergencies.
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [test]
+tags: []
 categories: []
 featured: false
 
