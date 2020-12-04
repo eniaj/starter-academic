@@ -80,7 +80,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Related content.
 [related]
-  threshold = 70.0
+  threshold = 100.0
   includeNewer = false
   toLower = true
 
@@ -90,7 +90,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
   [[related.indices]]
     name = "summary"
-    weight = 90
+    weight = 20
 
   [[related.indices]]
     name = "tags"
