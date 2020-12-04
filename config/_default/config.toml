@@ -94,7 +94,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
   [[related.indices]]
     name = "tags"
-    weight = 80.0
+    weight = 90.0
 
   [[related.indices]]
     name = "categories"
