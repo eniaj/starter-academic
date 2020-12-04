@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2018-09-26
 
 authors: [J. Enia]
-tags: [Disaster Politics]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
