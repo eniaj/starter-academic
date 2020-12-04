@@ -19,13 +19,13 @@ publication_types: ["10"]
 publication: "*The Courier of Montgomery County*"
 publication_short: ""
 
-abstract: " Contrary to popular wisdom, people tend not to panic in emergencies. Instead, we seek information. It helps us overcome our initial disbelief and confirm warnings. This is where local entities - governments, businesses, nonprofit organizations, churches, neighborhood associations - are extremely important."
+abstract: "Contrary to popular wisdom, people tend not to panic in emergencies. Instead, we seek information. It helps us overcome our initial disbelief and confirm warnings. This is where local entities - governments, businesses, nonprofit organizations, churches, neighborhood associations - are extremely important."
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags: []
-categories: []
+categories: [test]
 featured: false
 
 # Custom links (optional).
