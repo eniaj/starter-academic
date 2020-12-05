@@ -9,7 +9,7 @@ address:
   street:
   city: Prague
   region:
-  postcode: CZ
+  postcode:
   country: Czech Republic
 summary:
 abstract:
