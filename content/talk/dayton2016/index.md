@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Politics of International Disaster Risk Reduction"
-event: Pi Alpha Alpha Address, University of Dayton
+event: Pi Alpha Alpha Address
 event_url: 
-location: 
+location: University of Dayton
 address:
   street:
   city: Dayton
