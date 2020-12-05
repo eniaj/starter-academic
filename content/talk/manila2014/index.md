@@ -4,13 +4,13 @@
 title: "The Political Economy of Natural Disasters"
 event: "PH+SocialGood: The Manila Social Good Summit"
 event_url: 
-location: 
+location: Manila, The Philippines
 address:
   street:
   city: Manila
   region:
   postcode: PH
-  country: Philippines
+  country: The Philippines
 summary:
 abstract:
 
