@@ -9,7 +9,7 @@ address:
   street:
   city: Taipei
   region:
-  postcode: TW
+  postcode:
   country: Taiwan
 summary:
 abstract:
