@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Staying Credible in the "Offseason" of Texas Politics"
+title: "Staying Credible in the Offseason of Texas Politics"
 event: Global Center for Journalism & Democracy, Workshop for Local Journalists
 event_url: 
 location: The Conroe Courier
