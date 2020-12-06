@@ -4,7 +4,7 @@
 title: "The Politics of Disasters: Three Observations from the U.S. in 2017"
 event:
 event_url:
-location: Central Police University, Taipei, Taiwan
+location: Central Police University (Taipei, Taiwan)
 address:
   street:
   city: Taipei
