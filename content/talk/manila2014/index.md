@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Political Economy of Natural Disasters"
-event: PH+SocialGood: The Manila Social Good Summit (Manila, The Philippines)
+event: 
 event_url: 
-location: 
+location: PH+SocialGood: The Manila Social Good Summit (Manila, The Philippines)
 address:
   street:
   city: Manila
