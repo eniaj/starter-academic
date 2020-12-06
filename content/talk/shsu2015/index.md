@@ -4,7 +4,7 @@
 title: "SHSU as a Leader in the Study of Disasters and Emergency Management"
 event: Founders Day, Sam Houston State University
 event_url: 
-location: 
+location: Founders Day, Sam Houston State University
 address:
   street:
   city: Huntsville
