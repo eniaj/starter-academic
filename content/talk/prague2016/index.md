@@ -4,7 +4,7 @@
 title: "The Health of the Nuclear Nonproliferation Regime"
 event: The Sixth Prague Agenda Conference
 event_url: https://pragueagenda.iir.cz
-location: Ministry of Foreign Affairs of the Czech Republic, Prague
+location: The 6th Prague Agenda Conference, Ministry of Foreign Affairs (Prague, Czech Republic)
 address:
   street:
   city: Prague
