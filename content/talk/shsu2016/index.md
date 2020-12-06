@@ -4,7 +4,7 @@
 title: "Data on Deadline"
 event: Global Center for Journalism and Democracy, Workshop for Egyptian Journalists
 event_url: 
-location: Sam Houston State University
+location: Global Center for Journalism and Democracy, Sam Houston State University (Huntsville, TX)
 address:
   street:
   city: Huntsville
