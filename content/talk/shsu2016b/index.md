@@ -4,7 +4,7 @@
 title: "Staying Credible in the Offseason of Texas Politics"
 event: Global Center for Journalism & Democracy, Workshop for Local Journalists
 event_url: 
-location: The Conroe Courier
+location: The Conroe Courier (Conroe, TX)
 address:
   street:
   city: Conroe
