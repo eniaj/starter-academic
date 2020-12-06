@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Data on Deadline"
-event: Global Center for Journalism & Democracy, Workshop for Egyptian Journalists
+event: Global Center for Journalism and Democracy, Workshop for Egyptian Journalists
 event_url: 
 location: Sam Houston State University
 address:
@@ -17,7 +17,7 @@ abstract:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2016-11-15T14:00
-date_end: 2016-11-15T15:30
+# date_end: 2016-11-15T15:30
 all_day: false
 
 # Schedule page publish date (NOT talk date).
