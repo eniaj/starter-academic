@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Political Economy Approach to the Form and Function of the Nuclear Suppliers Group"
-event: FLACSO-International Studies Association Meeting, Quito, Ecuador
+event: FLACSO-International Studies Association Meeting
 event_url: 
-location: FLACSO-International Studies Association Meeting, Quito, Ecuador
+location: FLACSO-International Studies Association Meeting (Quito, Ecuador)
 address:
   street:
   city: Quito
