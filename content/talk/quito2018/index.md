@@ -4,7 +4,7 @@
 title: "A Political Economy Approach to the Form and Function of the Nuclear Suppliers Group"
 event: FLACSO-International Studies Association Meeting, Quito, Ecuador
 event_url: 
-location: 
+location: FLACSO-International Studies Association Meeting, Quito, Ecuador
 address:
   street:
   city: Quito
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2017-07-26
+date: 2018-07-26
 # date_end: 2016-11-15T15:30:42-05:00
 all_day: true
 
