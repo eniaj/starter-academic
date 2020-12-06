@@ -4,7 +4,7 @@
 title: "The Politics of International Disaster Risk Reduction"
 event: Pi Alpha Alpha Address
 event_url: 
-location: University of Dayton
+location: University of Dayton (Dayton, OH)
 address:
   street:
   city: Dayton
