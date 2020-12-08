@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Is There a Global Disaster Risk Reduction Regime?"
-event: Annual Workshop of the Natural Hazards Center (Bloomfield, CO)
+event: 
 event_url: 
-location: 
+location: Annual Workshop of the Natural Hazards Center (Bloomfield, CO)
 address:
   street:
   city: Bloomfield
