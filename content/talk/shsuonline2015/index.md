@@ -8,8 +8,8 @@ location: SHSU Online Teaching and Learning Conference (Huntsville, TX)
 address:
   street:
   city: Huntsville
-  region: TX
-  postcode: 
+  region: 
+  postcode: TX
   country: United States
 summary:
 abstract:
