@@ -16,7 +16,7 @@ publishDate: 2020-11-18T18:05:50-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal for Peace and Nuclear Disarmament*"
+publication: "*Journal for Peace and Nuclear Disarmament* 3(2): 385-397"
 publication_short: ""
 
 abstract: "Within the nuclear nonproliferation regime, the Nuclear Suppliers Group (NSG) is an important, but relatively underexplored, topic. Given the voluntary limitations member states have agreed to accept since 1974, the rules of the NSG must provide some benefit to the parties involved. This paper employs a political economy lens and explores these benefits through the language of transaction costs. What are the ways in which the rules of the NSG mitigate the transaction cost problems associated with cooperation and coordination in the international system? How have these rules evolved over time to keep pace with changes in transaction costs? In wrestling with these questions, this paper explores one of the major institutions of the nonproliferation regime and lends further credence to the argument that the efficacy of the regime cannot be measured by looking solely at the Nuclear Nonproliferation Treaty (NPT)."
