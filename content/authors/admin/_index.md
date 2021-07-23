@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Chair, Political Science
+role: Professor & Chair, Political Science
 
 # Organizations/Affiliations
 organizations:
