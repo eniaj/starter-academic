@@ -104,7 +104,7 @@ directions = "In the CHSS Building, take the elevator to the 4th floor. Politica
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Tuesday 12:00 PM to 1:00 PM", "Thursday 12:00 PM to 1:00 PM", "by appointment via email"]
+office_hours = ["Monday 12:00 PM to 1:00 PM", "Wednesday 12:00 PM to 1:00 PM", "by appointment via email"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "[]"
