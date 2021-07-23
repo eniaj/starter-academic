@@ -27,14 +27,14 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Associate Professor, Political Science"
+  title = "Professor, Political Science"
   company = "Sam Houston State University"
   company_url = "https://www.shsu.edu"
   location = ""
-  date_start = "2015-09-01"
+  date_start = "2021-09-01"
   date_end = ""
   description = ""
-  
+
 [[experience]]
   title = "Director, Center for the Study of Disasters and Emergency Management"
   company = "Sam Houston State University"
@@ -42,6 +42,15 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2014-11-01"
   date_end = ""
+  description = ""
+
+[[experience]]
+  title = "Associate Professor, Political Science"
+  company = "Sam Houston State University"
+  company_url = "https://www.shsu.edu"
+  location = ""
+  date_start = "2015-09-01"
+  date_end = "2021-08-31"
   description = ""
 
 [[experience]]
@@ -59,6 +68,6 @@ date_format = "Jan 2006"
   company_url = "https://www.shsu.edu"
   location = ""
   date_start = "2010-08-15"
-  date_end = "2015-08-30"
+  date_end = "2015-08-31"
   description = ""
 +++
