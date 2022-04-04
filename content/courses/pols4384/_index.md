@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: International Conflict Studies (POLS 4384)
+linktitle: International Security (POLS 5367)
 summary: 
 weight: 1
 
 # Page metadata.
-title: International Conflict Studies
+title: International Security
 date: "2020-11-22"
 lastmod: "2020-11-22"
 draft: false  # Is this a draft? true/false
@@ -28,14 +28,8 @@ Posting soon for Spring 2021.
 
 ## Course Overview
 
-Are there any general and accurate stories we can tell about why countries go to war with one another? This course is designed to get you thinking about the politics of international conflict as it occurs between states (nations). While you may not come up with definitive answers (that’s ok!), and you may change your mind about your answers over the course this semester or your life (that’s ok too!), it is important that we be able to think critically about this question.
+Why do countries go to war? Are the reasons unique to each situation or are there any generalizable determinants of war? This course is a systematic exploration of these questions.
 
-Our approach to the topic of international conflict is three-fold. At the beginning of each new topic, we’ll attempt to generate insights into these complex social phenomena by modeling them as simply as possible. The goal of these models will be to generate theories that can explain why conflict occurs in a given place and around a given issue.
+Our approach is organized around four levels of analysis. In each unit, we’ll dig into the major theories and debates that shape the study of war in international relations. We’ll begin by looking at features of the international system and exploring when and why the system has been more or less war-prone. Then we’ll drill down to the domestic level, exploring whether certain types of countries are more or less likely to go to war. Midway through the semester, we’ll pivot and look at dyads, asking whether the qualities of pairs of states make them more or less likely to go to war. Finally, we’ll look at individual leaders, exploring the roles they play in war. As we move through each level, we’ll pair our readings with discussions of cases and current events asking ourselves whether and how well our theories help us explain and understand the world as we find it.
 
-Next, we’ll check some of our assumptions and models looking at the data and using a series of in-class simulations. These will require you to put yourself in the shoes of various actors in international politics. The goal of these simulations is to get you to experience the mix of incentives that influences the actions of various actors.
-
-Finally, we’ll attempt to apply all of these insights to specific case studies. The cases provide a common story to discuss, and we’ll use a mixture of readings, videos and other media to build the story. The case sessions will be entirely discussion-based, as we attempt to peel back the layers of each case, discussing its particulars and asking ourselves about the quality of our earlier modeling.
-
-## Spring 2021 Syllabus, SHSU
-
-Posting soon.
+## [Fall 2021 Syllabus, SHSU](https://www.dropbox.com/s/lz06okosjtu6fg6/21-3%20POLS5367%20IS.pdf?dl=0)
