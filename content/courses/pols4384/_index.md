@@ -24,7 +24,7 @@ menu:
 
 ## Course Trailer
 
-Posting soon for Spring 2021.
+{{< youtube tBR6jVfflsI >}}
 
 ## Course Overview
 
