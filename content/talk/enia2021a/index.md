@@ -1,27 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Politics of Disasters: Three Observations from the U.S. in 2017"
-event:
+title: "Chasing a Moving Target: Teaching Disaster Politics in the Middle of a Disaster"
+event: Internatioinal Studies Association Annual Conference, 2021
 event_url:
-location: Central Police University (Taipei, Taiwan)
+location: Online
 address:
   street:
-  city: Taipei
+  city:
   region:
   postcode:
-  country: Taiwan
+  country:
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-09-25T15:30:42-05:00
-# date_end: 2020-09-25T21:35:42-05:00
+date: 2021-04-07T07:00:42-05:00
+# date_end: 2021-04-07T10:00:42-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2018-09-26
+publishDate: 2022-05-16
 
 authors: [J. Enia]
 tags: []
@@ -47,7 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://jasonenia.com/talk/taipei2018/2018CPU.pdf
+url_slides:
 url_code:
 url_pdf:
 url_video:
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [disaster-politics]
+projects: [pedagogy]
 ---
