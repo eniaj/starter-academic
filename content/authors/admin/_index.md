@@ -29,13 +29,10 @@ education:
   courses:
   - course: PhD in Politics & Int'l Relations
     institution: University of Southern California
-    year: 2009
   - course: MA in Int'l Political Economy & Development
     institution: Fordham University
-    year: 2003
   - course: BA in Economics & Political Science
     institution: University of Dayton
-    year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
