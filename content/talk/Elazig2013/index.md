@@ -47,7 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://jasonenia.com/talk/taipei2018/2018CPU.pdf
+url_slides:
 url_code:
 url_pdf:
 url_video:
