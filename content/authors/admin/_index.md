@@ -44,7 +44,7 @@ social:
   link: 'mailto:jason.enia@shsu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
-  link: 
+  link: https://www.dropbox.com/s/rdx7iz97zk1xc79/eniacv.pdf?dl=0
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IpgtHIgAAAAJ&hl=en
