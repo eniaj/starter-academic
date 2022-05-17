@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Chasing a Moving Target: Teaching Disaster Politics in the Middle of a Disaster"
-event: Internatioinal Studies Association Annual Conference, 2021
+event: International Studies Association Annual Conference, 2021
 event_url:
-location: Online
+location: International Studies Association Annual Conference (Online)
 address:
   street:
   city:
