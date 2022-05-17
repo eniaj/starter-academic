@@ -47,8 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://www.dropbox.com/s/cjh819rxypljqpy/2018%20CPU%20talk%20.pdf?dl=0
-
+url_slides: 
 url_code:
 url_pdf:
 url_video:
