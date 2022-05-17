@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Capitalist Institutions and Disasters: Do Contract Intensive Economies Save Lives?"
-event: University of Alaska Fairbanks
+event: University of Alaska Fairbanks (Fairbanks, AK)
 event_url:
-location: Fairbanks, AK
+location:
 address:
   street:
   city: 
