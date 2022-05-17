@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://www.dropbox.com/s/769ft6kgaunw60f/150418%20Founders%20Day.pdf?dl=0
+url_slides: https://jasonenia.com/talk/shsu2015/FoundersDay.pdf
 url_code:
 url_pdf:
 url_video: 
